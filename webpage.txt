@@ -60,8 +60,7 @@
     <span>This is an inline element (span)</span
 
   </div>
-
-  <!-- Iframe -->
+<!-- Iframe -->
   <div class="box">
     <h2>Embedded videos</h2>
     <iframe width="300" height="200" 
